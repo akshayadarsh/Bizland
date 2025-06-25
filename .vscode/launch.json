@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open bank-account.html",
+            "file": "c:\\Users\\user\\Downloads\\BizLand-1.0.0\\BizLand-1.0.0\\bank-account.html"
+        }
+    ]
+}
